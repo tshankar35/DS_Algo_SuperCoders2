@@ -1,1 +1,1 @@
-# DS_Algo_SuperCoders2
+# Data-Structures and Algorithm (SuperCoders - Phase 2)
