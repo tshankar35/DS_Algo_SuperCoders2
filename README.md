@@ -32,6 +32,13 @@
   </ul>
   <p></p>
   <p></p>
+ <ul> Day 4:
+  <li>Searching Algorithms</li>
+  <li>Binary Tree and Binary Search Tree</li>
+  <li>UDF Class Programs on Data Structures</li>
+  </ul>
+  <p></p>
+  <p></p>
 </ul>
 
 
